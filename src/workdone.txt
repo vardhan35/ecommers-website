@@ -1,0 +1,13 @@
+Home Items ✅
+Navbar ✅
+Error Page ✅
+store✅
+reducers ✅
+Actions ✅
+Redux for cart ✅
+Cart items ✅
+Cart List✅
+Cart Quantity
+Cart analytics
+FireBase
+Redux for users
